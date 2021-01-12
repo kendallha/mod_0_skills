@@ -1,0 +1,17 @@
+Instance:
+Maryann Johnson
+
+1. hourlyWage = 17.25
+2. name = "Maryann Johnson"
+3. hoursScheduled = 24
+4. hoursPTO = 12
+5. isFullTime = false
+6. daysAvailable = ["Monday","Tuesday","Wednesday","Saturday"]
+
+Methods:
+
+1. increaseWage ==> hourlyWage = 18.00
+2. changeName ==> name = "Maryann Webster"
+3. addHour  ==> hoursScheduled = 25
+4. addPTO  ==> hoursPTO = 15
+5. changeAvailability ==> daysAvailable = ["Monday","Tuesday","Wednesday","Saturday","Sunday"]

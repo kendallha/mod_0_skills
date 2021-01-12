@@ -2,10 +2,12 @@ class Employee
 
 Attributes:
 
-1. wage (float)
+1. hourlyWage (float)
 2. name (string)
 3. hoursScheduled (integer)
 4. hoursPTO (integer)
+5. isFullTime (boolean
+6. daysAvailable (array)
 
 Methods:
 
@@ -13,3 +15,4 @@ Methods:
 2. changeName (modifies name)
 3. addHour (hoursScheduled + 1)
 4. addPTO (increase hoursPTO)
+5. changeAvailability (modifies daysAvailable)
