@@ -1,0 +1,15 @@
+class Employee
+
+Attributes:
+
+1. wage (float)
+2. name (string)
+3. hoursScheduled (integer)
+4. hoursPTO (integer)
+
+Methods:
+
+1. increaseWage (increases wage attribute)
+2. changeName (modifies name)
+3. addHour (hoursScheduled + 1)
+4. addPTO (increase hoursPTO)
