@@ -1,0 +1,15 @@
+instance: Applebee's Menu
+
+Attributes
+
+1. menuSections = ["Appetizers", "Salads and Lite Meals", "Hot Off the Grill", "Desserts"]
+2. numberItems = 19
+3. color = "tan"
+4. listsPrices = false
+
+Methods
+
+1. addSection ==> menuSections = ["Appetizers", "Salads and Lite Meals", "Hot Off the Grill", "Desserts", "Sides"]
+2. removeItem ==> numberItems = 18
+3. changeColor ==> color = "fire engine red"
+4. addPrices ==>  listsPrices = true
