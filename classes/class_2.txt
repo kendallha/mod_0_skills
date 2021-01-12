@@ -1,0 +1,15 @@
+class Menu
+
+Attributes
+
+1. menuSections (array)
+2. numberItems (integer)
+3. color (string)
+4. listsPrices (boolean)
+
+Methods
+
+1. addSection (adds new element to sections array)
+2. removeItem (numberItems - 1)
+3. changeColor (modifies color attribute)
+4. addPrices (listsPrices = true)
